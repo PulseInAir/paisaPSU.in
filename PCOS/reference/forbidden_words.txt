@@ -1,0 +1,31 @@
+# Forbidden Words & Phrases — PCOS v1.0
+# Source: Rule_v8, Rule 24 (Forbidden Vocabulary) + Rule 25 (No-Filler Intro) + Rule 11 (Honest Returns)
+# Usage: Zero occurrences allowed in any article text
+# Loaded by: validate_forbidden_words.py
+
+# AI Fingerprints (Rule 24)
+delve
+navigate the complexities
+unlock
+journey
+realm
+in today's fast-paced world
+
+# Extended AI Fingerprints (from Voicebank anti-patterns)
+landscape
+game-changer
+in conclusion
+
+# Filler Intro Patterns (Rule 25)
+in this article, we will discuss
+in this article, we will explore
+in this article, we'll
+let's explore
+today we'll look at
+let's dive in
+let's dive into
+
+# Honest Returns (Rule 11)
+guaranteed returns
+guaranteed profit
+guaranteed income

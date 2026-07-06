@@ -1,0 +1,18 @@
+# Approved Power Words — PCOS v1.0
+# Source: Rule_v8, Rule 19 (Title Optimization)
+# Usage: Every article title must contain at least one of these words
+Hidden
+Real
+Actually
+Truth
+Warning
+Mistake
+Trap
+Secret
+Revealed
+Alert
+Free
+Exposed
+Critical
+Essential
+Proven
